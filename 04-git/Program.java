@@ -1,8 +1,8 @@
 //Dodaje losowy komentarz
 public class Program {
-  //pierwsza zmiana
+  //pierwsza zmiana 1
     public static void main(String[] args){
-      //druga zmiana
+      //druga zmiana 2
       System.out.print("Hello World");
       //trzecia zmiana 3
     }
