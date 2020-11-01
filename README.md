@@ -3,3 +3,4 @@
 ### Zmiana numer 1
 ### Zmiana numer 2
 ### Zmiana numer 3
+### Jakies zmiany do schowka
