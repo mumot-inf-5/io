@@ -5,5 +5,6 @@ public class Program {
       //druga zmiana 2
       System.out.print("Hello World");
       //trzecia zmiana 3
+      //Ostatnia zmiana do schowka
     }
   }
